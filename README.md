@@ -1,7 +1,7 @@
 ``` mermaid
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
+    Travis <|-- Duck
+   Boone <|-- Fish
     Animal <|-- Zebra
     Animal : +int age
     Animal : +String gender
