@@ -1,8 +1,8 @@
 ``` mermaid
 classDiagram
-    Travis <|-- Duck
-   Boone <|-- Fish
-    Is <|-- Zebra
+    Travis <|-- African American
+   Boone <|-- Strong
+    Is <|-- Lion of Judah
    Amazing : +int age
     Person : +String gender
     Excellence: +isMammal()
