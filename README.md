@@ -6,7 +6,7 @@ classDiagram
    Amazing : +int age
     Person : +String gender
     Excellence: +isMammal()
-    Power: +mate()
+    Loves: +mate()
     class Duck{
       +String beakColor
       +swim()
