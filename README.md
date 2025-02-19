@@ -2,11 +2,11 @@
 classDiagram
     Travis <|-- Duck
    Boone <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
+    Is <|-- Zebra
+   Amazing : +int age
+    Person : +String gender
+    Excellence: +isMammal()
+    Power: +mate()
     class Duck{
       +String beakColor
       +swim()
